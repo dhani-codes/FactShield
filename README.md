@@ -50,4 +50,4 @@ Improve the ML model and UI.
 Deploy publicly so everyone can use it.
 
 Try It Out
-[https://dhani-codes-factshield-fact-shield-oiiv2a.streamlit.app/]
+https://dhani-codes-factshield-fact-shield-oiiv2a.streamlit.app/
