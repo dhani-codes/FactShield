@@ -35,19 +35,7 @@ We created this project to help people identify fake news quickly and easily. Wi
 - How to create interactive web apps with Streamlit.
 - How to structure a project for deployment and GitHub sharing.
 
-## How to Run Locally
-1. Install dependencies:
-```bash
-pip install streamlit pandas scikit-learn
-
-Run the app:
-streamlit run fact_shield.py
-Open the browser to http://localhost:8501 and test the app.
-
-What's Next
-Expand the dataset for more accurate predictions.
-Improve the ML model and UI.
-Deploy publicly so everyone can use it.
-
-Try It Out
+Try it out
 https://dhani-codes-factshield-fact-shield-oiiv2a.streamlit.app/
+
+
